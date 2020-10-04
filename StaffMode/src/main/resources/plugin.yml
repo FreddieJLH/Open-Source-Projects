@@ -1,0 +1,4 @@
+name: StaffMode
+version: ${project.version}
+main: pw.freddie.staffmode.StaffMode
+authors: [ Freddie ]
